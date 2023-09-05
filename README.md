@@ -1,4 +1,6 @@
-# Untitled
+# First Commit
+
+This is the great start into a new project using the NFL Fantasy api to create a fun AI that manages my Fantasy Team.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
